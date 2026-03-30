@@ -1,0 +1,11 @@
+# Core
+torch
+transformers
+accelerate
+bitsandbytes
+sentence-transformers
+chromadb
+langchain-text-splitters
+
+# Optional — PDF support
+pypdf
